@@ -1,23 +1,18 @@
-e.g:-
-A retailer offers a rewards program to its customers, awarding points based on each recorded purchase.
- 
-A customer receives 2 points for every dollar spent over $100 in each transaction, plus 1 point for every dollar spent over $50 in each transaction
-(e.g. a $120 purchase = 2x$20 + 1x$50 = 90 points).
- 
-Given a record of every transaction during a three month period, calculate the reward points earned for each customer per month and total.
+### e.g:- A retailer offers a rewards program to its customers, awarding points based on each recorded purchase. A customer receives 2 points for every dollar spent over $100 in each transaction, plus 1 point for every dollar spent over $50 in each transaction (e.g. a $120 purchase = 2x$20 + 1x$50 = 90 points).Given a record of every transaction during a three month period, calculate the reward points earned for each customer per month and total.
 
-# Solution with two types:- Diffferent Floders created inside src with components name for run specific floder code you want.
-# Seprate README.md file created inside components floder for run code step by setp you want.
-1) Functional Component:-
+### Solution with two types:-
+- Diffferent Floders created inside src with components name for run specific floder code you want.
+- Seprate README.md file created inside components floder for run code step by setp you want.
+## 1) Functional Component:-
   Application run with two types of data.
-  # Dynamic Data - To run dynamic. you need install ract, express and mongoDB. 
+  ### - Dynamic Data :- To run dynamic. you need to install react, express and mongoDB. 
     - Readme.md file check inside components->FunctionalCompoenet->DynamicData->README.md to run dynamic code.
 
-  # Static Data - To run Static. you need install react only.
+  ### - Static Data :- To run Static. you need to install react only.
     - Readme.md file check inside components->FunctionalCompoenet->StaticData->README.md to run static code
 
-2) Other Solution:- 
-  ## To Other Solution. you need install react only And check Output in Console log.
+## 2) Other Solution:- 
+  ### To Other Solution. you need to install react only and check Output in Console log.
     - Readme.md file check inside components->OtherSolution->README.md to run other solution code.
 
 
